@@ -8,6 +8,8 @@ Hello! 👋 I am Due (he/him) and this is all the work from my time in Atlantic 
 - 📫 You can reach out to me via my email ([duechayapolsbs@gmail.com](mailto:duechayapolsbs@gmail.com?subject=Hello)) or my LinkedIn profile! ([https://www.linkedin.com/in/chayapol-hongsrimuang-185487157/](https://www.linkedin.com/in/chayapol-hongsrimuang-185487157/))
 - 🎮 I also work on other projects as well, especially on YouTube with my [MCC Live Show](https://www.youtube.com/channel/UC_Vi7BvymfOBn2AMwoUQVXw) project and a collaboration YouTube project of [MCC Centra](https://www.youtube.com/@mcc_central).
 
+<sub>📷 Picture taken by [@eoinielawless](https://github.com/eoinielawless)</sub>
+
 <!--
 **duechayapolgmit/duechayapolgmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
