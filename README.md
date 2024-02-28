@@ -1,4 +1,5 @@
 ![](GitHub-Profile.png)
+---
 Hello! 👋 I am Due (he/him) and this is all the work from my time in Atlantic Technological University and my down time.
 
 - 💬 Fourth Year Student in Atlantic Technological University (BSc Software Development)
