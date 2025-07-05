@@ -2,7 +2,7 @@
 ---
 Hello! 👋 I am Due (he/him) and this is all the work from my time in Atlantic Technological University and my down time.
 
-- 💬 Graduated from Atlantic Technological University (BSc Software Development)
+- 💬 Graduated from Atlantic Technological University (BSc Software Development) Currently studying MSc in Computing in the same university.
 - 🔨 Currently focused on Java Development (Minecraft plugin development, privately), Website Development, and Development Operations.
 - 🌱 This profile has a mixture of **everything**, but I recommend my final year project of **dep-fitness** and the on-going **mccls-graphics** project. 
 - 📫 You can reach out to me via my email ([duechayapolsbs@gmail.com](mailto:duechayapolsbs@gmail.com?subject=Hello)) or my LinkedIn profile! ([https://www.linkedin.com/in/chayapol-hongsrimuang-185487157/](https://www.linkedin.com/in/chayapol-hongsrimuang-185487157/))
